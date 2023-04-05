@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*remove class seleector*/
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* replace class selector and div for sematic elemnts*/
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,6 +35,8 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
+
+/*replace class selector and div for semantic element*/
 
 header nav ul li {
     display: inline-block;
@@ -70,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/*replace class selector and apply semantic element*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -82,7 +88,7 @@ aside {
     background-color: #2589bd;
     
 }
-/*grouped aside articles together*/
+/*replace class element, apply semantic elemnts and grouped aside articles together*/
 
 aside article {
     margin-bottom: 32px;
@@ -102,7 +108,7 @@ aside img {
     max-width: 150px;
 }
 
-/*grouped main article sections*/
+/*remove class selector, change semantic element and grouped main article sections*/
 
 main article {
     margin-bottom: 20px;
@@ -113,13 +119,13 @@ main article {
     color: #ffffff;
 }
 
-/*grouped main article images*/
+/*remove classe element, add semantic element and grouped main article images*/
 
 main article img {
     max-height: 200px;
 }
 
-/*grouped h2 tags under main article elemnt*/
+/*removed class element and grouped h2 tags under main article elemnt*/
 
 h2 {
     margin-bottom: 20px;
