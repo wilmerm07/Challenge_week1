@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/*remove class seleector*/
+/*remove class selector*/
 
 header {
     padding: 20px;
@@ -26,7 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* replace class selector and div for sematic elemnts*/
+/* replace class selector and div for semantic elements*/
 
 header nav {
     padding-top: 15px;
@@ -36,7 +36,7 @@ header nav {
     font-size: 20px;
 }
 
-/*replace class selector and div for semantic element*/
+/*replace class selector and div for semantic elements*/
 
 header nav ul li {
     display: inline-block;
@@ -76,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/*replace class selector and apply semantic element*/
+/*replace class selector and apply semantic elements*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -88,7 +88,7 @@ aside {
     background-color: #2589bd;
     
 }
-/*replace class element, apply semantic elemnts and grouped aside articles together*/
+/*replace class element, apply semantic elemnts and group aside articles together*/
 
 aside article {
     margin-bottom: 32px;
@@ -100,7 +100,7 @@ h3 {
     text-align: center;
 }
 
-/*grouped aside img*/
+/*group aside img*/
 
 aside img {
     display: block;
@@ -108,7 +108,7 @@ aside img {
     max-width: 150px;
 }
 
-/*remove class selector, change semantic element and grouped main article sections*/
+/*remove class selector, change semantic element and group main article sections*/
 
 main article {
     margin-bottom: 20px;
@@ -119,13 +119,13 @@ main article {
     color: #ffffff;
 }
 
-/*remove classe element, add semantic element and grouped main article images*/
+/*remove class element, add semantic element and group main article images*/
 
 main article img {
     max-height: 200px;
 }
 
-/*removed class element and grouped h2 tags under main article elemnt*/
+/*remove class element and group h2 tags under main article element*/
 
 h2 {
     margin-bottom: 20px;
